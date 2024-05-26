@@ -22,6 +22,6 @@ Web Developer
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharaneesh8688&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dharaneesh_v_d?theme=dark&font=Convergence&ext=contest)]
+![LeetCode Stats](https://leetcard.jacoblin.cool/dharaneesh_v_d?theme=dark&font=Convergence&ext=contest)
 
 
