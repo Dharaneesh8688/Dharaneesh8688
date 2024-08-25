@@ -7,7 +7,8 @@
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dharaneesh_v_d?igsh=MW96dzlzYW9nNXQ0bw==) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dharaneesh-v-d?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[<img src="https://img.shields.io/badge/website-1DA1F2?style=for-the-badge&logo=web&logoColor=white" />](https://www.instagram.com/dharaneesh_v_d?igsh=MW96dzlzYW9nNXQ0bw==) 
+[<img src="https://img.shields.io/badge/🌐 DHARANEESH-1DA1F2?style=for-the-badge&logo=website&logoColor=white" />](https://dharaneesh.netlify.app/) 
+
 - 😄 Pronouns: Techie
 ---
 ### I code in
