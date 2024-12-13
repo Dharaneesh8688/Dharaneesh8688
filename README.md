@@ -19,7 +19,7 @@
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/windows_11-ED1C24?style=for-the-badge&logo=hp&logoColor=white"/><img height="30" src="https://img.shields.io/badge/ubuntu-ED1C24?style=for-the-badge&logo=hp&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_7535HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/ubuntu-ED1C24?style=for-the-badge&logo=hp&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX2050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_7535HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![Dharaneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharaneesh8688&theme=dark&show_icons=true&&hide=issues,contribs)
 
